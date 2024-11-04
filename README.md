@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Git Intermediate Techniques
 This is the repository for the LinkedIn Learning course Git Intermediate Techniques. The full course is available from [LinkedIn Learning][lil-course-url].
 
@@ -24,3 +25,7 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [lil-course-url]: https://www.linkedin.com/learning/git-intermediate-techniques-16077011?dApp=59033956
 [lil-thumbnail-url]: https://cdn.lynda.com/course/3082618/3082618-1668022974716-16x9.jpg
+=======
+# try
+try
+>>>>>>> 6332cc9a863c6a69c10c61dce33528a11581d024
